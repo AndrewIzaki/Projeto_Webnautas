@@ -3,5 +3,5 @@
 
 ## Tecnologias 
 
-*engine de jogos* - Unity C# para portabilidade web.
+*engine de jogos* - Unity C# para portabilidade web \
 *front-end* - Html, CSS e Javascript para portabilidade web.
